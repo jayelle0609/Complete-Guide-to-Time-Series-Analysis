@@ -1,6 +1,4 @@
 # Complete-Guide-to-Time-Series-Analysis
-Absolutely! Here’s a beginner-friendly set of notes on **Autoregressive (AR) Models** for time series analysis. I’ll keep it simple, intuitive, and with examples — perfect for folks new to the topic.
-
 ---
 
 # Introduction to Autoregressive (AR) Models in Time Series Analysis
