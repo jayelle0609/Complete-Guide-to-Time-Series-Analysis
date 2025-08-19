@@ -1,23 +1,5 @@
 
 ````markdown
-# Introduction to Autoregressive (AR) Models with Python Example
-
-Autoregressive (AR) models are used in time series analysis to predict a value based on its own previous values. They are simple yet powerful tools for understanding how data evolves over time.
-
----
-
-## What is an AR Model?
-
-An **AR(p)** model expresses the current value \(X_t\) as a linear combination of the previous \(p\) values plus some random noise:
-
-\[
-X_t = c + \phi_1 X_{t-1} + \phi_2 X_{t-2} + \dots + \phi_p X_{t-p} + \epsilon_t
-\]
-
-- \(X_t\): value at time \(t\)  
-- \(c\): constant (intercept)  
-- \(\phi_1, \phi_2, \dots, \phi_p\): coefficients that capture the influence of past values  
-- \(\epsilon_t\): noise term  
 
 ---
 
